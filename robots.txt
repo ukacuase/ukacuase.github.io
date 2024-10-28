@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ukacuase.github.io/sitemap_index.ukacuase
